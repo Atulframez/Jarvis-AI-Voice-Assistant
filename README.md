@@ -43,3 +43,50 @@ Open Websites (.com support)
 YouTube Automation
 
 Google Search
+
+
+🎬 Entertainment
+
+IMDb Movie Search (Rating, Cast, Plot)
+
+Play Music
+
+YouTube Video Search
+
+⚡ Advanced Features
+
+WolframAlpha Calculations
+
+Chrome Automation
+
+Process Monitoring
+
+Webcam Video Capture
+
+Chat Mode (Text-based Interaction)
+
+🛠 Technologies Used
+
+Python 3.7+
+
+SpeechRecognition
+
+pyttsx3
+
+OpenCV
+
+Wikipedia API
+
+IMDbPY
+
+WolframAlpha API
+
+Requests
+
+psutil
+
+Speedtest
+
+PyAutoGUI
+
+WMI
