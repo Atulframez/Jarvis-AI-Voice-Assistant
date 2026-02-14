@@ -90,3 +90,19 @@ Speedtest
 PyAutoGUI
 
 WMI
+
+
+
+
+
+🔑 API Setup
+
+You must generate your own API keys:
+
+OpenWeather API
+
+WolframAlpha API
+
+IPify API (for IP detection)
+
+Replace API keys in the code.
